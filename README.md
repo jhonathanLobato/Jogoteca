@@ -4,9 +4,13 @@ Desenvolvimento de uma aplicação web usando Flask para listar jogos, inserir j
 Tecnologias usadas:
   - HTML
   - CSS
+  - JavaScript
+  - Jquery
   - Bootstrap
   - Python
   - Flask
+  - Flask-WTF
+  - MySQL
 
 Minha primeira aplicação usando Flask, integrando o Python com HTML, utilizando orientação a objeto para ter uma melhor performace, ler formulários e com isso usando métodos POST e GET, também foi visto como dinamizar URLs para evitar o uso de caminhos de pastas que podem sofrer mudanças com o tempo, e para guardar informações de login foi usado o Session.
 
@@ -18,6 +22,10 @@ Minha primeira aplicação usando Flask, integrando o Python com HTML, utilizand
 
 ![login](https://user-images.githubusercontent.com/56777373/211166265-32d13f59-a58d-46b8-9765-fb78926ac2b5.png)
 ###### <p align="center">Página de login</p>
+
+#
+Versão 2.0
+No segundo curso da formação Flask foi melhorado o sistema, como a implementação de banco de dados MySQL e usando o ORM SQLAlchemy para fazer o mapeamento das tabelas. O javaScript e Jquery foi usando para o tratamento de imagens principalmente no cadastro e na edição de jogos, e a validação do formulário é feita com o Flask-WTF. 
 
 #
 <div align="center">
